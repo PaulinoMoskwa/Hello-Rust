@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/rustc-1.69.0-blue)]()
 [![](https://img.shields.io/badge/cargo-1.69.0-blue)]()
 
+Get to know Rust programming language (ongoing).
 <p align="center">
 <img src='./media/rustacean-banner.png' width='1000'/>
 </p>
